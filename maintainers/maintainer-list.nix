@@ -21839,6 +21839,12 @@
     githubId = 83010835;
     keys = [ { fingerprint = "0181 FF89 4F34 7FCC EB06  5710 4C88 A185 FB89 301E"; } ];
   };
+  overby-me = {
+    email = "niclas@overby.me";
+    github = "overby-me";
+    githubId = 2422942;
+    name = "Niclas Overby";
+  };
   overloader = {
     name = "Overloader";
     github = "Overloader6";
